@@ -1,0 +1,2 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="csrf-token" content="{{ csrf_token() }}"><meta name="description" content="Custom web and mobile applications for business, government, and education."><title>PixelForge.ai — Software built around your work</title>@vite('resources/js/app.js')</head><body><div id="app"></div></body></html>
